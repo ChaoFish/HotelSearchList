@@ -178,12 +178,10 @@ export default {
 }
 #text {
 	width: 50%;
-	margin: 2% 3% 2% 0;
+	margin: 1% 3% 2% 2%;
 	display: inline-block;
 	text-align: left;
-	vertical-align: middle;
-	margin-left: 2%;
-	height: 90%;
+	vertical-align: top;
 }
 #hotelName {
 	font-size: 1.1em;
