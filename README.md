@@ -1,6 +1,6 @@
-# homebloc
+# 酒店搜索页面
 
-> A Vue.js project
+> 根据酒店搜索关键词以及筛选条件（距离、价格、酒店评分等）返回符合要求的酒店列表
 
 ## Build Setup
 
